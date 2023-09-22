@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6 python csv_operations.py #--data_dir TestSet --out_dir output --csv_file TestSet/operations.csv
